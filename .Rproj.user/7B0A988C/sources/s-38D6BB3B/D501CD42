@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592772097546.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4288035452",
+    "id" : "D501CD42",
+    "lastKnownWriteTime" : 1592158283,
+    "last_content_update" : 1592158283,
+    "path" : "~/pigeonsTom/R/readUitslag.R",
+    "project_path" : "R/readUitslag.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
