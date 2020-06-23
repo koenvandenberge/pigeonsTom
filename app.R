@@ -12,15 +12,16 @@ library(plotly)
 library(magrittr)
 library(lubridate)
 library(dplyr)
+library(shinyWidgets)
 
 source("R/getPigeonsTom.R")
 
-# TODO: aantal prijzen barplot over iedereen
-# TODO: aantal prijzen per wedstrijd voor Tom
-
-
 # Define UI for application that draws a histogram
 ui <- fluidPage(
+    
+    setBackgroundImage(
+        src = "tom.jpg"
+    ),
     
     # Application title
     titlePanel("Overzicht van alle duiven"),
@@ -37,7 +38,7 @@ ui <- fluidPage(
         ),
     
         sliderInput("nTop",
-                    "Relatieve snelheid: vergelijk met hoeveel top duiven",
+                    "Relatieve snelheid: aantal top duiven waarmee vergeleken wordt",
                     value = 50,
                     min = 5,
                     max = 90)
@@ -48,8 +49,7 @@ ui <- fluidPage(
         tabsetPanel(type="tabs",
                     tabPanel("Absolute snelheid", plotlyOutput(outputId = "absolutePlot")),
                     tabPanel("Relatieve snelheid", plotlyOutput(outputId = "relativePlot")),
-                    tabPanel("Wedstrijd statistieken", plotOutput(outputId = "statsPlot"))
-                    )
+                    tabPanel("Wedstrijd statistieken", plotOutput(outputId = "statsPlot"))                    )
     )
     
 
@@ -93,13 +93,14 @@ server <- function(input, output, ...) {
         names(tab) <- trimws(names(tab))
         barplot(tab, las=2,
                 ylab = "Aantal prijzen", main="Aantal prijzen over alle wedstrijden heen",
-                cex.axis = 1, cex.names=1, cex.main=4/5)
+                cex.axis = 1, cex.names=1, cex.main=5/4,
+                col=c("darkseagreen2", rep("grey",4)))
         
         #Tom: aantal prijzen per wedstrijd
         aantalWedstrijden <- dfTom %>% dplyr::group_by(race) %>% summarise(nr=n())
         barplot(height=aantalWedstrijden$nr, names=aantalWedstrijden$race,
-                las=2, cex.axis = 1, cex.names=1, cex.main=4/5,
-                main="Prijzen per wedstrijd", ylab="Aantal prijzen")
+                las=2, cex.axis = 1, cex.names=1, cex.main=5/4,
+                main="Prijzen per wedstrijd voor Tom", ylab="Aantal prijzen")
     })
 
 }
