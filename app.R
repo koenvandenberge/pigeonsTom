@@ -13,6 +13,7 @@ library(magrittr)
 library(lubridate)
 library(dplyr)
 library(shinyWidgets)
+library(tidyr)
 
 source("R/getPigeonsTom.R")
 
@@ -49,7 +50,9 @@ ui <- fluidPage(
         tabsetPanel(type="tabs",
                     tabPanel("Absolute snelheid", plotlyOutput(outputId = "absolutePlot")),
                     tabPanel("Relatieve snelheid", plotlyOutput(outputId = "relativePlot")),
-                    tabPanel("Wedstrijd statistieken", plotOutput(outputId = "statsPlot"))                    )
+                    tabPanel("Wedstrijd statistieken", plotlyOutput(outputId = "statsPlot")),
+                    tabPanel("Coëfficiëntentabel", tableOutput(outputId = "tabel"))
+                    )
     )
     
 
@@ -86,21 +89,39 @@ server <- function(input, output, ...) {
                    yaxis = list(title="Relatieve snelheid"))
     })
     
-    output$statsPlot <- renderPlot({
+    output$statsPlot <- renderPlotly({
         par(mfrow=c(1,2), mar=c(9,5,4,3))
         # Meeste prijzen over alle wedstrijden
         tab <- sort(table(dfSnel$Naam), decreasing=TRUE)[1:5]
         names(tab) <- trimws(names(tab))
-        barplot(tab, las=2,
-                ylab = "Aantal prijzen", main="Aantal prijzen over alle wedstrijden heen",
-                cex.axis = 1, cex.names=1, cex.main=5/4,
-                col=c("darkseagreen2", rep("grey",4)))
-        
+        figBar1 <- plot_ly(
+            x = factor(names(tab), levels=names(tab)),
+            y = tab,
+            name = "Prijzen over alle wedstrijden",
+            type = "bar")
+
         #Tom: aantal prijzen per wedstrijd
-        aantalWedstrijden <- dfTom %>% dplyr::group_by(race) %>% summarise(nr=n())
-        barplot(height=aantalWedstrijden$nr, names=aantalWedstrijden$race,
-                las=2, cex.axis = 1, cex.names=1, cex.main=5/4,
-                main="Prijzen per wedstrijd voor Tom", ylab="Aantal prijzen")
+        prijsPerWedstrijd <- dfTom %>% 
+            dplyr::group_by(race) %>% 
+            summarise(nr=n(),
+                      total=unique(AD))
+        figBar2 <- plot_ly(prijsPerWedstrijd, 
+                       x = ~race, y = ~nr, type = 'bar', 
+                       name = 'Aantal prijzen')
+        figBar2 <- figBar2 %>% add_trace(y = ~total-nr, name = 'Aantal duiven mee')
+        figBar2 <- figBar2 %>% layout(yaxis = list(title = 'Aantal'), 
+                              barmode = 'stack')
+        fig <- subplot(figBar1, figBar2)
+        fig
+    })
+    
+    output$tabel <- renderTable({
+        dfTabLong <- dfTom[,c("Ring", "race", "coef")]
+        dfTabWide <- tidyr::spread(dfTabLong, race, coef)
+        dfTabWide$gemiddelde <- rowMeans(dfTabWide[,-1], na.rm=TRUE)
+        dfTabWide <- dfTabWide[order(dfTabWide$gemiddelde, decreasing=FALSE),]
+        dfTabWide$Ring <- as.factor(dfTabWide$Ring)
+        dfTabWide
     })
 
 }

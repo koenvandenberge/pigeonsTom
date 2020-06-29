@@ -13,3 +13,4 @@ dfSnel <- addSpeed(res)
 
 dfTom <- dfSnel[grep(x=dfSnel$Naam, pattern="Van Den Berge Tom"),]
 dfTom$duif <- as.factor(dfTom$Ring)
+dfTom$coef <- (dfTom$Nr / dfTom$aantalDuiven)*100
