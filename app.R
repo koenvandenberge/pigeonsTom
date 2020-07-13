@@ -118,6 +118,11 @@ server <- function(input, output, ...) {
     output$tabel <- renderTable({
         dfTabLong <- dfTom[,c("Ring", "race", "coef")]
         dfTabWide <- tidyr::spread(dfTabLong, race, coef)
+        ## NA betekent dat ze geen prijs gevlogen hebben
+        dfTabWide[is.na(dfTabWide)] <- 55
+        ### soms zijn er thuis gebleven duiven
+        ringenThuisNoyon280720 <- c(410057520, 410055820, 410059220)
+        dfTabWide[dfTabWide$Ring %in% ringenThuisNoyon280720,"Noyon 28 jun 2020"] <- NA
         dfTabWide$gemiddelde <- rowMeans(dfTabWide[,-1], na.rm=TRUE)
         dfTabWide <- dfTabWide[order(dfTabWide$gemiddelde, decreasing=FALSE),]
         dfTabWide$Ring <- as.factor(dfTabWide$Ring)
