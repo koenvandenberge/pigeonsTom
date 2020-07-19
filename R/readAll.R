@@ -5,17 +5,20 @@ files <- c("Quievrain 14 jun 2020"="data/duivenTom/2020/20200614_quievrain_tolle
           "Noyon 21 jun 2020"="data/duivenTom/2020/20200621_noyon_tollembeek_jonge.txt",
           "Noyon 28 jun 2020"="data/duivenTom/2020/20200628_noyon_tollembeek_jonge.txt",
           "Noyon 6 jul 2020"="data/duivenTom/2020/20200706_noyon_tollembeek_jonge.txt",
-          "Sermaises 11 jul 2020"="data/duivenTom/2020/20200711_sermaises_tollembeek_jonge.txt")
+          "Sermaises 11 jul 2020"="data/duivenTom/2020/20200711_sermaises_tollembeek_jonge.txt",
+          "Sermaises 18 jul 2020"="data/duivenTom/2020/20200718_sermaises_tollembeek_jonge.txt")
 lostijd <- c(as.POSIXct("14062020 08:00:00", format = "%d%m%Y %H:%M:%S", tz="GMT"), 
              as.POSIXct("21062020 07:30:00", format = "%d%m%Y %H:%M:%S", tz="GMT"),
              as.POSIXct("28062020 10:30:00", format = "%d%m%Y %H:%M:%S", tz="GMT"),
              as.POSIXct("06072020 07:30:00", format = "%d%m%Y %H:%M:%S", tz="GMT"),
-             as.POSIXct("11072020 08:30:00", format = "%d%m%Y %H:%M:%S", tz="GMT"))
+             as.POSIXct("11072020 08:30:00", format = "%d%m%Y %H:%M:%S", tz="GMT"),
+             as.POSIXct("11072020 07:45:00", format = "%d%m%Y %H:%M:%S", tz="GMT"))
 aantalDuiven <- c("Quievrain 14 jun 2020"=418,
                   "Noyon 21 jun 2020"=444,
                   "Noyon 28 jun 2020"=669,
                   "Noyon 6 jul 2020"=443,
-                  "Sermaises 11 jul 2020"=268)
+                  "Sermaises 11 jul 2020"=268,
+                  "Sermaises 18 jul 2020"=388)
 
 # create one big df
 datList <- list()
