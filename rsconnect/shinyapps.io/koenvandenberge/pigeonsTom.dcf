@@ -5,8 +5,8 @@ account: koenvandenberge
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2454844
-bundleId: 3409490
+bundleId: 3467708
 url: https://koenvandenberge.shinyapps.io/pigeonsTom/
-when: 1595183825.6034
+when: 1596431509.09309
 asMultiple: FALSE
 asStatic: FALSE

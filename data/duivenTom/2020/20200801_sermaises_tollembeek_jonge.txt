@@ -1,0 +1,168 @@
+DE EENDRACHT TOLLEMBEEK                       Data Technology Deerlijk  (22731)                
+-------------------------------------------------------------------------------------          
+SERMAISES            01-08-20  322 JONGE            Deelnemers:22 LOSTIJD:08.15                
+-------------------------------------------------------------------------------------          
+  NR Naam                  Gemeent AD IG Afstand LD Ring   JR Bestat     Snelh.    NR          
+  N0 Nom                   Localit EN MQ Distanc PA Bague  AN Constat    Vitesse   NO          
+-------------------------------------------------------------------------------------          
+   1 VANDENABEELE ELS      NEIGEM  25 21  309615 BE 419795520 12.26260 1231.4000    1          
+   2 Dedobbeleer DIRK EN Z Herne   12 12  300431 BE 203987420 12.19130 1230.1822    2          
+   3 Van Den Berge Tom     Meerbek 11  8  310713 BE 410056420 12.28260 1226.0147    3          
+   4 VANDENABEELE ELS      NEIGEM  25 17       2 BE 419793420 12.30030 1213.9384    4          
+   5 Van Den Berge Tom     Meerbek 11  4       2 BE 410058720 12.32110 1208.1382    5          
+   6 DE VOS ALFRED         DENDERW 32 16  308661 BE 417204720 12.30350 1207.6726    6          
+   7 STAELENS ROWENA       Pamel   19  8  313973 BE 209190620 12.36140 1201.8872    7          
+   8 De Roock Stefaan      Lennik  15  2  314831 BE 200542520 12.41500 1179.8788    8          
+   9 VANDENABEELE ELS      NEIGEM  25 15       3 BE 419795820 12.37400 1178.7373    9          
+  10 STAELENS ROWENA       Pamel   19 15       2 BE 209192520 12.43540 1167.6199   10          
+  11 VANDENABEELE ELS      NEIGEM  25 20       4 BE 419797320 12.40350 1165.7923   11          
+  12 Nelson - N & V-LOFT   Bierghe 61 50  301043 BE 113987220 12.34000 1162.3282   12          
+  13 POTVIN-DECOSTER       GALMAAR 16  5  301730 BE 203413320 12.35530 1156.5706   13          
+  14 DE VOS ALFRED         DENDERW 32  6       2 BE 416217720 12.42100 1155.3125   14          
+  15 POTVIN-DECOSTER       GALMAAR 16 14       2 BE 203419320 12.36290 1153.9168   15          
+  16 De Roock Stefaan      Lennik  15  5       2 BE 200545620 12.49560 1145.1176   16          
+  17 Nelson - N & V-LOFT   Bierghe 61 19       2 BE 113980220 12.38540 1140.7465   17          
+  18 THIENPONT HERVE & Gle DENDERW  9  7  307118 BE 403917520 12.44499 1138.1837   18          
+  19 DE VOS ALFRED         DENDERW 32 25       3 BE 417209620 12.49140 1125.5415   19          
+  20 DEDOBBELEER DIDIER    HERFELI 10  3  306317 BE 206652620 12.47101 1125.4689   20          
+  21 VANDENABEELE ELS      NEIGEM  25 10       5 BE 419795920 12.51100 1121.1165   21          
+  22 Nelson - N & V-LOFT   Bierghe 61 11       3 BE 113988020 12.44050 1118.7724   22          
+  23 Dedobbeleer DIRK EN Z Herne   12  5       2 BE 203520720 12.45130 1111.8152   23          
+  24 Van Den Berge Tom     Meerbek 11  3       3 BE 410059120 12.54560 1109.9536   24          
+  25 Nelson - N & V-LOFT   Bierghe 61 45       4 BE 113987520 12.46400 1108.1337   25          
+  26 POTVIN-DECOSTER       GALMAAR 16  1       3 BE 203416920 12.47580 1105.3731   26          
+  27 Nelson - N & V-LOFT   Bierghe 61 48       5 BE 113980620 12.47440 1103.7998   27          
+  28 DE VOS ALFRED         DENDERW 32 21       4 BE 417208720 12.56050 1098.1121   28          
+  29 THIENPONT HERVE & Gle DENDERW  9  6       2 BE 203562920 12.55299 1094.9013   29          
+  30 Van Den Berge Tom     Meerbek 11 11       4 BE 410055120 12.59490 1090.9228   30          
+  31 STAELENS ROWENA       Pamel   19 14       3 BE 209193720 13.03230 1088.7349   31          
+  32 De Roock Stefaan      Lennik  15  8       3 BE 200542820 13.04470 1086.4358   32          
+  33 Dedobbeleer DIRK EN Z Herne   12  1       3 BE 203521120 12.51480 1085.3721   33          
+  34 De Roock Stefaan      Lennik  15 12       4 BE 200545020 13.05080 1085.1252   34          
+  35 Van Den Berge Tom     Meerbek 11  1       5 BE 410055920 13.02590 1078.9270   35          
+  36 THIENPONT HERVE & Gle DENDERW  9  9       3 BE 409897320 12.59509 1078.1808   36          
+  37 Van Den Berge Tom     Meerbek 11  9       6 BE 410056020 13.05120 1070.6857   37          
+  38 Nelson - N & V-LOFT   Bierghe 61 34       6 BE 113986020 12.56160 1070.3117   38          
+  39 Walckiers Daniel      Galmaar 10  7  302460 BE 203483720 12.57599 1068.7695   39          
+  40 DE VOS ALFRED         DENDERW 32  4       5 BE 417205220 13.04170 1066.9851   40          
+  41 Vandenneucker Johan   Herne   20  9  301490 BE 203523720 12.58070 1064.8967   41          
+  42 POTVIN-DECOSTER       GALMAAR 16  9       4 BE 203414920 12.58220 1064.8041   42          
+  43 POTVIN-DECOSTER       GALMAAR 16 10       5 BE 203414120 12.59030 1062.2426   43          
+  44 De Roock Stefaan      Lennik  15  6       5 BE 200543220 13.11260 1062.0634   44          
+  45 POTVIN-DECOSTER       GALMAAR 16  3       6 BE 203410720 12.59260 1060.8110   45          
+  46 SCHOUKENS FRANKY      PAMEL    8  2  312669 BE 211534320 13.09560 1060.1345   46          
+  47 Nelson - N & V-LOFT   Bierghe 61 29       7 BE 113986320 12.59110 1059.3267   47          
+  48 VANDENABEELE ELS      NEIGEM  25  7       6 BE 419796320 13.07500 1057.3079   48          
+  49 THIENPONT HERVE & Gle DENDERW  9  4       4 BE 203562420 13.05299 1057.2109   49          
+  50 De Roock Stefaan      Lennik  15  1       6 BE 200544620 13.13320 1054.5925   50          
+  51 DEDOBBELEER WIM       VOLLEZE 18  3  304503 BE 203575620 13.05530 1046.8217   51          
+  52 DEDOBBELEER DIDIER    HERFELI 10  5       2 BE 200040320 13.08231 1044.0786   52          
+  53 STAELENS ROWENA       Pamel   19  4       4 BE 209193820 13.16480 1040.3347   53          
+  54 WALCKIERS JEAN        DENDERW  7  2  306224 BE 418361120 13.09450 1038.9279   54          
+  55 DEDOBBELEER WIM       VOLLEZE 18  5       2 BE 203575520 13.08180 1038.1964   55          
+  56 Nelson - N & V-LOFT   Bierghe 61 42       8 BE 113988220 13.06360 1032.3834   56          
+  57 Nelson - N & V-LOFT   Bierghe 61 18       9 BE 113982220 13.06460 1031.7937   57          
+  58 STAELENS ROWENA       Pamel   19  9       5 BE 209192120 13.19350 1030.8279   58          
+  59 STAELENS ROWENA       Pamel   19  6       6 BE 209190820 13.19420 1030.4332   59          
+  60 Nelson - N & V-LOFT   Bierghe 61 16      10 BE 113990720 13.07540 1027.8013   60          
+  61 DE VOS ALFRED         DENDERW 32 13       6 BE 417204620 13.15270 1027.3290   61          
+  62 WALCKIERS JEAN        DENDERW  7  3       2 BE 418345020 13.13130 1026.8507   62          
+  63 DE VOS ALFRED         DENDERW 32  8       7 BE 417205020 13.15380 1026.7025   63          
+  64 Dedobbeleer DIRK EN Z Herne   12  8       4 BE 203520820 13.07400 1026.5296   64          
+  65 VANDENABEELE ELS      NEIGEM  25 16       7 BE 419793520 13.16440 1026.1213   65          
+  66 Nelson - N & V-LOFT   Bierghe 61  6      11 BE 113981920 13.08430 1024.9435   66          
+  67 DEDOBBELEER DIDIER    HERFELI 10  8       3 BE 200043220 13.14221 1023.2111   67          
+  68 VANDENABEELE ELS      NEIGEM  25 11       8 BE 419794920 13.17580 1021.9441   68          
+  69 Nelson - N & V-LOFT   Bierghe 61  9      12 BE 113990020 13.11000 1017.0372   69          
+  70 Nelson - N & V-LOFT   Bierghe 61 49      13 BE 113989120 13.11020 1016.9226   70          
+  71 Nelson - N & V-LOFT   Bierghe 61 51      14 BE 113991020 13.11400 1014.7517   71          
+  72 DEDOBBELEER WIM       VOLLEZE 18  4       3 BE 203571720 13.15120 1014.3338   72          
+  73 DE VOS ALFRED         DENDERW 32 10       8 BE 417206320 13.19360 1013.3322   73          
+  74 Vandenneucker Johan   Herne   20 14       2 BE 200486020 13.13190 1010.6375   74          
+  75 STAELENS ROWENA       Pamel   19 12       7 BE 209190120 13.26540 1006.6464   75          
+  76 Nelson - N & V-LOFT   Bierghe 61 24      15 BE 113981620 13.14080 1006.3840   76          
+  77 DEDOBBELEER DIDIER    HERFELI 10  1       4 BE 200040720 13.19421 1005.3014   77          
+  78 Nelson - N & V-LOFT   Bierghe 61 22      16 BE 113986820 13.15120 1002.8081   78          
+  79 Nelson - N & V-LOFT   Bierghe 61 44      17 BE 113981820 13.15150 1002.6411   79          
+  80 THIENPONT HERVE & Gle DENDERW  9  2       5 BE 203562220 13.21339 1001.8039   80          
+  81 DE VOS ALFRED         DENDERW 32  7       9 BE 417207620 13.23250 1000.7922   81          
+  82 VERHULST DANNY        MOERBEK 10  3  301166 BE 407922120 13.16230  999.2789   82          
+  83 Van Den Berge Tom     Meerbek 11 10       7 BE 410056320 13.26200  998.0075   83          
+  84 Van Vreckem Frank     Roosdaa  6  2  313745 BE 211576620 13.29320  997.4936   84          
+  85 Nelson - N & V-LOFT   Bierghe 61  4      18 BE 113982620 13.16500  997.3816   85          
+  86 DE VOS ALFRED         DENDERW 32  9      10 BE 417205820 13.25190  994.6646   86          
+  87 VANDENABEELE ELS      NEIGEM  25  1       9 BE 419797720 13.26530  992.7270   87          
+  88 Dedobbeleer DIRK EN Z Herne   12  7       5 BE 203521520 13.18380  989.4533   88          
+  89 Nelson - N & V-LOFT   Bierghe 61 10      19 BE 113990620 13.19220  989.0801   89          
+  90 STAELENS ROWENA       Pamel   19  2       8 BE 209193520 13.33130  986.6642   90          
+  91 DEDOBBELEER WIM       VOLLEZE 18  1       4 BE 203575020 13.24060  985.1278   91          
+  92 Dedobbeleer DIRK EN Z Herne   12  4       6 BE 203988420 13.20150  984.2129   92          
+  93 De Koker Patrick      Leerbee  5  1  309141 BE 203496520 13.29309  982.9134   93          
+  94 DE VOS ALFRED         DENDERW 32 23      11 BE 416217420 13.29520  980.2911   94          
+  95 Walckiers Daniel      Galmaar 10  1       2 BE 203482120 13.23329  980.2678   95          
+  96 DEDOBBELEER WIM       VOLLEZE 18  8       5 BE 203574820 13.27030  975.8148   96          
+  97 Dedobbeleer DIRK EN Z Herne   12  6       7 BE 203521220 13.23110  974.8451   97          
+  98 De Roock Stefaan      Lennik  15 11       7 BE 400272620 13.38140  974.0054   98          
+  99 Van Den Berge Tom     Meerbek 11  7       8 BE 410056620 13.34490  971.5347   99          
+ 100 VANDENABEELE ELS      NEIGEM  25  4      10 BE 419792320 13.33550  970.8336  100          
+ 101 DE VOS ALFRED         DENDERW 32  2      12 BE 417206020 13.33040  970.4286  101          
+ 102 Van Den Berge Tom     Meerbek 11  5       9 BE 410059220 13.35180  970.0687  102          
+ 103 POTVIN W.-TORCK S     TOLLEMB  2  2  303519 BE 203447120 13.29020  966.5184  103          
+ 104 Van Den Berge Tom     Meerbek 11  6      10 BE 410055820 13.38530  959.3362  104          
+ 105 DE VOS ALFRED         DENDERW 32  1      13 BE 417204920 13.37210  957.5337  105          
+ 106 Vandenneucker Johan   Herne   20  2       3 BE 203577120 13.32400  949.0766  106          
+ 107 DEDOBBELEER WIM       VOLLEZE 18 12       6 BE 203574420 13.37080  945.2701  107          
+ 108 Nelson - N & V-LOFT   Bierghe 61 28      20 BE 113984720 13.33290  945.2394  108          
+ 109 Nelson - N & V-LOFT   Bierghe 61 14      21 BE 113980320 13.34200  942.7234  109          
+ 110 Nelson - N & V-LOFT   Bierghe 61 35      22 BE 113982520 13.34230  942.5758  110          
+ 111 De Roock Stefaan      Lennik  15  9       8 BE 200543020 13.49050  942.3727  111          
+ 112 VANDENABEELE ELS      NEIGEM  25 25      11 BE 419792620 13.46310  933.9349  112          
+ 113 De Koker Patrick      Leerbee  5  2       2 BE 203495820 13.48149  927.6596  113          
+ 114 Nelson - N & V-LOFT   Bierghe 61 60      23 BE 113989820 13.40420  924.2954  114          
+ 115 Nelson - N & V-LOFT   Bierghe 61 56      24 BE 113984820 13.42030  920.4800  115          
+ 116 Nelson - N & V-LOFT   Bierghe 61 36      25 BE 113984520 13.42240  919.4960  116          
+ 117 DEHANDSCHUTTER KRISTO VOLLEZE 21 21  304691 BE 203422220 13.47220  916.7315  117          
+ 118 Nelson - N & V-LOFT   Bierghe 61 26      26 BE 113985220 13.46320  908.0324  118          
+ 119 STAELENS ROWENA       Pamel   19 19       9 BE 209191820 14.00570  907.5676  119          
+ 120 VANDENABEELE ELS      NEIGEM  25  8      12 BE 419795620 13.56210  907.0309  120          
+ 121 STAELENS ROWENA       Pamel   19  7      10 BE 209190920 14.01120  906.9122  121          
+ 122 Walckiers Daniel      Galmaar 10  9       3 BE 203481120 13.48519  905.9350  122          
+ 123 DEDOBBELEER DIDIER    HERFELI 10  9       5 BE 206653620 13.54071  903.2747  123          
+ 124 Vandenneucker Johan   Herne   20 16       4 BE 203591120 13.51390  895.5592  124          
+ 125 DE VOS ALFRED         DENDERW 32 14      14 BE 207526020 14.00080  894.3239  125          
+ 126 POTVIN-DECOSTER       GALMAAR 16  4       7 BE 203410320 13.52280  894.1031  126          
+ 127 Van Vreckem Frank     Roosdaa  6  5       2 BE 417898420 14.07000  891.3210  127          
+ 128 DEHANDSCHUTTER KRISTO VOLLEZE 21 12       2 BE 203421220 13.58200  887.4495  128          
+ 129 STAELENS ROWENA       Pamel   19  5      11 BE 209193320 14.09520  884.7633  129          
+ 130 STAELENS ROWENA       Pamel   19 18      12 BE 209191920 14.09570  884.5556  130          
+ 131 Dedobbeleer DIRK EN Z Herne   12  9       8 BE 203522420 13.55010  883.5773  131          
+ 132 DEHANDSCHUTTER KRISTO VOLLEZE 21  7       3 BE 203425520 14.00400  881.4590  132          
+ 133 DE VOS ALFRED         DENDERW 32 27      15 BE 417207820 14.07430  875.0962  133          
+ 134 Nelson - N & V-LOFT   Bierghe 61 12      27 BE 113981720 13.59560  872.7571  134          
+ 135 THIENPONT HERVE & Gle DENDERW  9  8       6 BE 409899820 14.09280  866.4228  135          
+ 136 POTVIN-DECOSTER       GALMAAR 16 12       8 BE 203411320 14.06140  859.0586  136          
+ 137 De Roock Stefaan      Lennik  15 15       9 BE 200540120 14.24520  851.2013  137          
+ 138 VANDENABEELE ELS      NEIGEM  25  5      13 BE 419794520 14.20160  847.6410  138          
+ 139 POTVIN-DECOSTER       GALMAAR 16  2       9 BE 203416320 14.11080  847.2389  139          
+ 140 DEDOBBELEER WIM       VOLLEZE 18 16       7 BE 203574720 14.15220  844.9810  140          
+ 141 DEDOBBELEER WIM       VOLLEZE 18  9       8 BE 203574120 14.15300  844.6685  141          
+ 142 VANDENABEELE ELS      NEIGEM  25 24      14 BE 419797620 14.21430  844.2894  142          
+ 143 DEHANDSCHUTTER KRISTO VOLLEZE 21 16       4 BE 203425120 14.16570  841.8041  143          
+ 144 DEHANDSCHUTTER KRISTO VOLLEZE 21 13       5 BE 203422620 14.17380  840.2179  144          
+ 145 VERHULST DANNY        MOERBEK 10  6       2 BE 407921520 14.13520  839.2142  145          
+ 146 DEDOBBELEER DIDIER    HERFELI 10  6       6 BE 410052320 14.21100  836.5508  146          
+ 147 Nelson - N & V-LOFT   Bierghe 61 37      28 BE 113986720 14.15400  834.6848  147          
+ 148 De Koker Patrick      Leerbee  5  5       3 BE 203494720 14.25520  833.5637  148          
+ 149 STAELENS ROWENA       Pamel   19 16      13 BE 209192920 14.33390  829.1905  149          
+ 150 STAELENS ROWENA       Pamel   19 13      14 BE 209193620 14.33410  829.1176  150          
+ 151 Nelson - N & V-LOFT   Bierghe 61 38      29 BE 113989020 14.24210  815.0616  151          
+ 152 DEHANDSCHUTTER KRISTO VOLLEZE 21 14       6 BE 203420320 14.29270  813.7028  152          
+ 153 Dedobbeleer DIRK EN Z Herne   12 10       9 BE 609349820 14.27410  806.1294  153          
+ 154 Nelson - N & V-LOFT   Bierghe 61 55      30 BE 113980120 14.30080  802.4960  154          
+ 155 DEHANDSCHUTTER KRISTO VOLLEZE 21  5       7 BE 203422320 14.35030  801.7129  155          
+ 156 Nelson - N & V-LOFT   Bierghe 61 13      31 BE 113983120 14.31530 14.3534,8  156          
+ 157 POTVIN-DECOSTER       GALMAAR 16 16      10 BE 203415920 14.35560 14.3846,2  157          
+ 158 DEDOBBELEER DIDIER    HERFELI 10 10       7 BE 200041220 14.45320 14.4238,2  158          
+ 159 Dedobbeleer DIRK EN Z Herne   12  2      10 BE 203520120 14.38120 14.4239,7  159          
+ 160 DEDOBBELEER DIDIER    HERFELI 10  2       8 BE 200040820 14.53440 14.5050,2  160          
+ 161 STAELENS ROWENA       Pamel   19  3      15 BE 209190220 15.03310 14.5103,0  161          
